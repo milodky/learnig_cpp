@@ -1,0 +1,1 @@
+this example shows that the program may still crash at stack unwinding even we use try-catch block
